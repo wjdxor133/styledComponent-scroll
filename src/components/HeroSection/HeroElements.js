@@ -11,7 +11,6 @@ export const HeroContainer = styled.div`
   position: relative;
   z-index: 1;
 
-  /* Add before styled */
   :before {
     content: "";
     position: absolute;
